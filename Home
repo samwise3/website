@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    .center {
+        text-align: center;
+    }
+    .center img {
+        max-width: 100%;
+        height: auto;
+    }
+  </style>
+  
+  <title>Sam's Site</title>
+  
+  <h1>Sam's World</h1>
+  <hr>
+  <ul id="navigation"> <strong>Navigation</strong>
+    <li><a href="Home">Home</a></li>
+    <li><a href="Resume">Resume Page</a></li>
+    <li><a href="AboutMe">About Me</a></li>
+  </ul>
+  <br>
+  <div class="center"> <img src="rotunda_landscape.JPEG" height="350px" width="650px" alt="Rotunda at the Univeristy of Virginia">
+  </div>
+  <hr>
+</head>
+<body>
+
+<ol> <strong>Social Media Links:</strong>
+  <li id="LinkedIn"><a href="https://www.linkedin.com/in/samanthawbrooks">LinkedIn</a></li>
+  <li id="Instagram"><a href="https://www.instagram.com/samwisebrooks?igsh=MWhneXVtYzI1YWpqNg%3D%3D&utm_source=qr">Instagram</a></li>
+</ol>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>About Me</title>
+        <meta charset="UTF-8">
+        <h1>About Me</h1>
+        <ul id="navigation"> <strong>Navigation</strong>
+            <li><a href="Home">Home</a></li>
+            <li><a href="Resume">Resume Page</a></li>
+            <li><a href="AboutMe">About Me</a></li>
+          </ul>
+        <hr>
+    </head>
+    <body>
+        <p>
+            <h3>Background</h3>
+
+            <br>
+
+            <h3>Education</h3>
+
+            <br>
+
+            <h3>Future Goals</h3>
+
+            <br>
+        
+        </p>
+    </body>
+</html>
